@@ -22,6 +22,10 @@ code . 입력하면 vscode 나옴
 
     python "C:/Users/kkuri/11223344/open_task1/Mask_RCNN/samples/balloon/balloon.py" train --dataset="C:/Users/kkuri/11223344/open_task1/Mask_RCNN/samples/balloon/datasets" --weights=coco
 
-    
+    ![KakaoTalk_20231123_211307173](https://github.com/kkuriyoon/task1/assets/128067444/4b51dcb1-b285-412d-bdc2-1cd585f56625)
+
 
     python "C:/Users/kkuri/11223344/task1/Mask_RCNN/samples/balloon/balloon.py" splash --weights="C:/Users/kkuri/11223344/task1/Mask_RCNN/mask_rcnn_balloon.h5" --image="C:/Users/kkuri/11223344/task1/Mask_RCNN/balloon1.jpeg"
+
+![balloon1](https://github.com/kkuriyoon/task1/assets/128067444/e47aa13f-1867-47d3-a9f8-bd44b63e2968)
+![splash_20231123T213030](https://github.com/kkuriyoon/task1/assets/128067444/e95ad0e1-d652-4971-9991-269b6ee431e6)
